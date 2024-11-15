@@ -1,6 +1,6 @@
 ---
 title: Multi-scale Simulation research group starts at Rowan University
-date: 2024-Sept-01
+date: 2024-09-01
 image:
   focal_point: 'top'
 ---
