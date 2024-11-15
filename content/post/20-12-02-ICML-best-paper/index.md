@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Dr. Aditya Dilip Lele and Noor Aldin start working as a part of the Multi-scale Simulation research group at Rowan University. 
+Dr. Aditya Dilip Lele and Noor Aldin start working as a part of the Multi-scale Simulation research group at Rowan University in the Dept. of Mechanical Engineering. 
 
 <!--more-->
 
