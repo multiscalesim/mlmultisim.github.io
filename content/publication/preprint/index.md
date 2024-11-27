@@ -1,7 +1,7 @@
 ---
 title: "Preprint"
-authors:
-- admin
+#authors:
+#- admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -30,13 +30,13 @@ links:
 - name: Custom Link
   url: https://www.researchsquare.com/article/rs-4574727/v1
 url_pdf: https://www.researchsquare.com/article/rs-4574727/v1.pdf?c=1729708753000
-url_code: 'https://doi.org/10.21203/rs.3.rs-4574727/v1'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: 'https://doi.org/10.21203/rs.3.rs-4574727/v1'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_code: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
