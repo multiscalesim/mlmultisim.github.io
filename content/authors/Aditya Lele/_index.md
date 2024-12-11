@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-   - course: Postdoc
+    - course: Postdoc
       institution: Princeton University
       year: 2024
     - course: PhD in Mechnical Engineering with Minor in Computational Materials
