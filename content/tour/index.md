@@ -62,4 +62,18 @@ sections:
             identification of materials for target applications.
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: Predictive and quantitative multi-scale modeling
+      subtitle: ''
+      text: Finding more efficient manufacturing processes and finding alternate
+            manufacturing processes using electricity as two of the key targets to achieve a net-zero carbon emission by 2050.
+            To achieve the emission target, we need to concurrently focus on understanding the basic science behind these alternate 
+            processes while making them technology ready. Our group adopts a bottoms up approach when approaching
+            these research problems. Quantum chemistry calculations and molecular dynamics simulations provide the essential
+            atomistic understanding of the fundamental chemistry. The insights gained from the atomistic perspectives such as
+            rate constants can then be applied to device scale simulations. Our bottoms up approach allows us to perform
+            predictive and quantitative modeling of the non-equilibrium and dynamic processes.
+    design:
+      columns: '1'
 ---
