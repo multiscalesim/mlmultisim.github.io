@@ -19,7 +19,7 @@ role: Assistant Professor of Mechanical Engineering
 # Organizations/Affiliations
 organizations:
   - name: Rowan University
-    url: ''
+    url: 'https://engineering.rowan.edu/faculty_staff/listing/aditya_lele.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include combining machine learning and multi-scale simulations to understand non-equilibrium processes.
@@ -31,13 +31,16 @@ interests:
 
 education:
   courses:
+   - course: Postdoc
+      institution: Princeton University
+      year: 2024
     - course: PhD in Mechnical Engineering with Minor in Computational Materials
       institution: The Pennsylvania State University
       year: 2021
     - course: MS in Mechnical Engineering
       institution: Indian Institute of Technology Madras
       year: 2018
-    - course: BS in Mechnical Engineering
+    - course: BTech in Mechnical Engineering
       institution: Vishwakarma Institute of Technology
       year: 2015
 
