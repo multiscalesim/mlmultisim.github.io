@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: research_overview.png
+            filename: #research_overview.png
             filters:
               brightness: 0.7
           position: right
@@ -51,4 +51,27 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+  - block: markdown
+    content:
+      title: 'ML-assisted simulations for material discovery' 
+      subtitle: ''
+      text: 'To overcome the limits imposed by existing resource heavy, CO2 intensive processes, we need to identify
+novel materials that are more efficient. Our research group focuses on developing methods that go beyond the
+status quo of exploring static properties and perform screening of the material space based on thermodynamics and
+kinetics. This will enable the prediction of dynamic properties for large material spaces leading to better
+identification of materials for target applications.'
+    design:
+      columns: '1'
+      background:
+        image: ''
+          filename: 
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
