@@ -27,9 +27,9 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
       - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+#    id: section-2
+#    content:
+#      title: Section 2
+#      subtitle: A subtitle
+#      text: Add your Section 2 content here...
 ---
